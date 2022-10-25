@@ -3,8 +3,7 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 
 Hi nama saya Rifky Muslim, Saya menyukai belajar tentang hal baru<3
 -------------------------------------------------------------------
-
-lagi belajar si wkwkwkwkwk,, semoga lancar ya
+i love girl :)
 
 * 🌍  I'm based in Jakarta
 * ✉️  You can contact me at [rifkymuslimm@gmail.com](mailto:rifkymuslimm@gmail.com)

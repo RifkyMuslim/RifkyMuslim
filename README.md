@@ -1,4 +1,4 @@
-Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is Hi! my name is Rifky Muslim, i love learning new things<3
+Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is Rifky Muslim, i love learning new things<3
 =================================================================================================================================================================================
 
 Hi nama saya Rifky Muslim, Saya menyukai belajar tentang hal baru<3

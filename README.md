@@ -11,6 +11,24 @@ i love girl :)
 * 🤝  I'm open to collaborating on Front End or Music
 * ⚡  makasih udah mau mampir yaaa!
 
+# Journey Perkuliahan Gunadarma
+>Repository ini berisi Jawaban dan Materi Materi selama berkuliah di gunadarma
+<div align="center">
+<img src="https://baak.gunadarma.ac.id/public/images/logo2.png" width="250">
+</div>
+>ini Milik Saya Aoawkaowkaowkaowkaowkaowkaowk
+```
+2022 - 
+NPM   : 51422643
+Nama  : Yoga Ardiansyah
+```
+### Link Website Gunadarma
+| Link  | Lank | Lunk | 
+| ------------- | ------------- | ---------------- |
+| [ V-Class](https://v-class.gunadarma.ac.id/) | [BAAK UG](https://baak.gunadarma.ac.id/) | [Student Site UG](https://studentsite.gunadarma.ac.id/) |
+| [Staff Site](http://staffsite.gunadarma.ac.id/index.php?go=search) | [LabTI](http://ti.lab.gunadarma.ac.id/) | [Lepkom](https://vm.lepkom.gunadarma.ac.id/) |
+| [LepKursus](https://kursusvmlepkom.gunadarma.ac.id/)|[FormDKI](https://onlineform.bankdki.co.id/login)|[Blogspot](https://ugyogaardiansyah.blogspot.com/) |
+
 ### Skills
 
 

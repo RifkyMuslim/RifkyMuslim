@@ -16,22 +16,6 @@ gweh suka kucing<3
 <div align="center">
 <img src="https://baak.gunadarma.ac.id/public/images/logo2.png" width="250">
 </div>
->Update kalo niat aja, YNNA (yang niat niat azzahh)
-```
-2022 - 
-NPM   : 51422442
-Nama  : Rifky Muslim
-```
-### Link Website Gunadarma
-| Link  | Lank | Lunk | 
-| ------------- | ------------- | ---------------- |
-| [ V-Class](https://v-class.gunadarma.ac.id/) | [BAAK UG](https://baak.gunadarma.ac.id/) | [Student Site UG](https://studentsite.gunadarma.ac.id/) |
-| [Staff Site](http://staffsite.gunadarma.ac.id/index.php?go=search) | [LabTI](http://ti.lab.gunadarma.ac.id/) | [Lepkom](https://vm.lepkom.gunadarma.ac.id/) |
-| [LepKursus](https://kursusvmlepkom.gunadarma.ac.id/)|[FormDKI](https://onlineform.bankdki.co.id/login)|[Blogspot](https://plzremindher.blogspot.com/) |
-```
-
-<div align="center">
-</div>
 
 ### Skills
 
